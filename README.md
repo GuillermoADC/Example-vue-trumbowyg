@@ -1,5 +1,7 @@
 # example-vue-trumbowyg
 
+![alt](./sample.gif)
+
 ## Project setup
 ```
 yarn install
