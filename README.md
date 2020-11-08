@@ -1,4 +1,4 @@
-# example-vue-trumbowyg
+# vue-trumbowyg with rizeimg plugin sample
 
 ![alt](./sample.gif)
 
