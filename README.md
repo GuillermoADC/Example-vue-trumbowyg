@@ -1,4 +1,8 @@
-# vue-trumbowyg with rizeimg plugin sample
+# vue-trumbowyg with Resizimg  plugin sample
+
+[Vue-trumbowyg](https://github.com/ankurk91/vue-trumbowyg)
+
+[Trumbowyg](https://alex-d.github.io/Trumbowyg/documentation/plugins/#plugin-resizimg)
 
 ![alt](./sample.gif)
 
